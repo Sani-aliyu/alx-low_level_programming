@@ -1,17 +1,18 @@
 #include "main.h"
+#include <ctype.h>
 /**
  * _abs - computes the absolute value of an integrer
  *
- * @n: the int to check
+ * @a: the int to check
  *
  * Return: the absolute value of int
  *
  */
-int _abs(int n)
+int _abs(int a)
 {
-	if (n >= 0)
+	if (a >= 0)
 	{
-		return (n);
+		return (a);
 	}
-	return (-n);
+	return (-a);
 }

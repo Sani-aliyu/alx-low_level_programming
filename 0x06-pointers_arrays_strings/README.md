@@ -1,1 +1,1 @@
-diving deeperinto pointers, arrays and strings
+diving deeper into pointers, arrays and strings
